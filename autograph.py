@@ -1,8 +1,6 @@
 import requests
 from pprint import pprint
 import json
-from datetime import datetime
-import time
 
 
 class Authograph:
